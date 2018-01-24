@@ -1,0 +1,23 @@
+{
+  "docs": {
+    "What, Why & How?": [
+        "what_why_how"
+    ],
+    "Sort Theory": [
+        "why_sort_theory",
+        "sort_types",
+        "which_sort_algorithm"
+    ],
+    "Comparision Sorts": [
+        "bingo_sort",
+        "bubble_sort",
+        "cocktail_sort",
+        "comb_sort",
+        "gnome_sort",
+        "insertion_sort",
+        "selection_sort",
+        "shell_sort"
+    ],
+    "Integer Sorts": [ ]
+  }
+}
