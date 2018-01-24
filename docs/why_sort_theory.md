@@ -4,6 +4,8 @@ title: Why is this important?
 sidebar_label: Why is this important?
 ---
 
+## Why do I need to know any of this?
+
 Imagine you have a data set, and an application with a list. In your list you want to show the best restaurants by score - but there is a problem: when you load the webpage everything lags horribly.
 
 After a performance diagnosis you conclude that your app is trying to sort millions of restaurants to show in the list. Even if your list only shows the top 10, you still need to sort them all so you know which 10 restaurants are the best.
@@ -12,7 +14,7 @@ After a performance diagnosis you conclude that your app is trying to sort milli
 
 Sort theory is only important as long performance is important for your algorithms. Because most browsers tend to do wrong assumptions about the data sets you use, their algorithms usually lead to poor results - which can be an issue if you are sorting millions of restaurants.
 
-Sort theory bases itself on three pillars:
+This is why a basic grasp of sort theory can help. Sort theory bases itself on three pillars:
 
 1. Know your data set: it's size, it's format, it's distribution. Even if you don't know all this points, knowing some will already help you choose a better sorting algorithm.
 2. Know the what you value the most: is the speed over consistency? is it an efficient usage of memory or the number of writes?
