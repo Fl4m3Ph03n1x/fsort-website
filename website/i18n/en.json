@@ -22,8 +22,8 @@
     "Shell Sort": "Shell Sort",
     "sort_types": "Sort Types",
     "Sort Types": "Sort Types",
-    "what_why": "What & Why?",
-    "What & Why?": "What & Why?",
+    "what_why_how": "What, Why & How?",
+    "What, Why & How?": "What, Why & How?",
     "which_sort_algorithm": "Which sort algorithm to use?",
     "Which sort algorithm to use?": "Which sort algorithm to use?",
     "why_sort_theory": "Why is this important?",
@@ -31,6 +31,7 @@
     "Docs": "Docs",
     "Help": "Help",
     "Blog": "Blog",
+    "Intro": "Intro",
     "Sort Theory": "Sort Theory",
     "Comparision Sorts": "Comparision Sorts",
     "Integer Sorts": "Integer Sorts"

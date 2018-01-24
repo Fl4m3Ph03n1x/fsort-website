@@ -20,7 +20,7 @@ Among this set of features, `fsort` provides:
 
 `fsort` also implements the optimised version of each algorithm so you can reap the greatest benefits of each implementation.
 
-**But even if having a pure, functional based API** is not something that excites you, `fsort` still has a strong use case for your applications. You see, the default implementation `Array.prototype.sort` that each browser has several issues:
+**But even if having a pure, functional based API** is not something that excites you, `fsort` still has a strong use case for your applications. You see, the default implementation of `Array.prototype.sort` has some issues:
 
 - It varies from browser to browser and thus is very inconsistent across multiple environments
 - The complexity of the algorithms used by each browser is implementation specific and varies from version to version, thus meaning [it is unknown](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
