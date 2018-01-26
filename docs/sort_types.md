@@ -46,7 +46,3 @@ You can read more about the properties of each algorithm in the given documentat
 | Bucket    ( TODO )    |
 | Radix     ( TODO )    |
 | Counting  ( TODO )    |
-
-## Which algorithm to use?
-
-https://www.youtube.com/watch?v=ZZuD6iUe3Pc
