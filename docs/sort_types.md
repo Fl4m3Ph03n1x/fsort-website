@@ -18,16 +18,24 @@ Advanced algorithms, are the opposite. They require additional complex data stru
 
 The list of algorithms implemented for each type is as follow:
 
-| Simple algorithms |   | Advanced algorithms   |
-| :---------------- |   | :-------------------- |
-| Bingo             |   | Merge     ( TODO )    |
-| Bubble            |   | Heap      ( TODO )    |
-| Cocktail          |   | Quick     ( TODO )    |
-| Comb              |   | Tim       ( TODO )    |
-| Gnome             |   | Tree      ( TODO )    |
+| Simple algorithms |
+| :---------------- |
+| Bingo             |
+| Bubble            |
+| Cocktail          |
+| Comb              |
+| Gnome             |
 | Insertion         |
 | Selection         |
 | Shell             |
+
+| Advanced algorithms   |
+| :-------------------- |
+| Merge     ( TODO )    |
+| Heap      ( TODO )    |
+| Quick     ( TODO )    |
+| Tim       ( TODO )    |
+| Tree      ( TODO )    |
 
 You can read more about the properties of each algorithm in the given documentation pages.
 
